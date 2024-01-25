@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IOT Private Projects**
 
-- 🌱 I’m currently learning **Python and Node.js**
+- 🌱 I’m currently learning **Python and Azure**
 
 - 💬 Ask me about **Android , C++ , Java , Electronics**
 
